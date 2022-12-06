@@ -11,8 +11,6 @@ I welcome you to join the adventure and share your own expirmients
 * Youtube: https://www.youtube.com/channel/UCe6hY7_rXJ-iQrdDT0ZiyRw
 * Website: https://www.nitzan-tregerman.com/
 
-<br>
-
 ## Contribution
 
 You can contribute to the project in the following ways
@@ -22,8 +20,7 @@ You can contribute to the project in the following ways
 - Optimization & debugging - a list of issues will be avilable in the GitHub page.
 
 <br>
-<br>
-<br>
+
 
 # Tools
 
