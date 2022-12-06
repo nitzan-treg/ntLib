@@ -107,9 +107,8 @@ I attempted to make everything into a single wrangler
 
 ## DOP wrangler (Beta)
 Just like the SOP "Solver" node is a glorified "SOP Solver" DOP, the "DOP wrangler" is a glorified geometry wrangler.
-i created it just to test if a i can make a solver that is even simpler then the "SOP Solver"
 
-Suppsodly "geometry wrangler" DOP node should exectue faster then the "SOP Solver" DOP node, as it doesnt have to bind all the data of the source geometry.
+Suppsodly a "geometry wrangler" DOP node should exectue faster then the "SOP Solver" DOP node, as it doesnt have to bind all the data of the source geometry.
 
 I think that sharing this curiosity might open an interesting discussion about what are DOP's and how we can optimize them.
 
