@@ -11,6 +11,8 @@ I welcome you to join the adventure and share your own expirmients
 * Youtube: https://www.youtube.com/channel/UCe6hY7_rXJ-iQrdDT0ZiyRw
 * Website: https://www.nitzan-tregerman.com/
 
+<br>
+
 ## Contribution
 
 You can contribute to the project in the following ways
@@ -19,9 +21,9 @@ You can contribute to the project in the following ways
 - Join the community - join to the discord and share your stuff.
 - Optimization & debugging - a list of issues will be avilable in the GitHub page.
 
-.
-
-.
+<br>
+<br>
+<br>
 
 # Tools
 
@@ -34,9 +36,7 @@ https://vimeo.com/775089386
 
 <img aling="right" height="200" src="Images/Extrude_subdivision.gif">
 
-.
-
-.
+<br>
 
 ## 2D Smoke Solver (Beta)
 a SOP solver that simulates smoke in a 2D Plane,
@@ -47,9 +47,7 @@ Raisng substeps helps to get better collision and density loss
 
 <img height="200" src="Images/smoke_solver.gif">
 
-.
-
-.
+<br>
 
 ## 3D Chlandi Noise (Alpha)
 
@@ -65,9 +63,7 @@ to find more about chlandi noise look at the following videos:
 
 <img height="200" src="Images/Chlandi_Noise.gif">
 
-.
-
-.
+<br>
 
 ## SDF Growth Solver (Beta)
 
@@ -80,9 +76,7 @@ Advection direction can be guided by a curve / velocity field
 <img height="200" src="Images/sdf_growth.gif">
 
 
-.
-
-.
+<br>
 
 ## Velocity From Curves
 
@@ -95,9 +89,7 @@ A utility tool that generates a velocity field from a curve, allows to control t
 
 <img height="200" src="Images/velocity_from_curve.gif">
 
-.
-
-.
+<br>
 
 ## Super Diamond (Beta)
 A tool that remaps every axis with a ramp,
@@ -105,9 +97,7 @@ by default it generates the "super diamond" which is a remaped octahedron.
 
 <img height="200" src="Images/super_diamond.gif">
 
-.
-
-.
+<br>
 
 ## Points from Curves (Beta)
 an expiriment to test the limits of VEX.
@@ -116,9 +106,7 @@ The challange is to animate points along a curve while only using a single wrang
 
 I attempted to make everything into a single wrangler
 
-.
-
-.
+<br>
 
 ## DOP wrangler (Beta)
 Just like the SOP "Solver" node is a glorified "SOP Solver" DOP, the "DOP wrangler" is a glorified geometry wrangler.
