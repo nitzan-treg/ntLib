@@ -86,7 +86,7 @@ Advection direction can be guided by a curve / velocity field
 
 This node generates a 3D Chlandi noise pattern that can be created as an attribute in the SOP context.
 
-This noise is based on the article [Chladni Figures Revisited: A Peek Into The Third Dimension](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ms-math-computer.science/preprint/2016_SRP_Chladni.pdf). I tried to copy the formula but there are still some problems with  the frequancy and evolution parameters.
+This noise is based on the article [Chladni Figures Revisited: A Peek Into The Third Dimension](https://www.researchgate.net/publication/319879322_Chladni_Figures_Revisited_A_Peek_Into_The_Third_Dimension). I tried to copy the formula but there are still some problems with  the frequancy and evolution parameters.
 
 to find more about chlandi noise look at the following videos:
 
