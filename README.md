@@ -38,23 +38,6 @@ https://vimeo.com/775089386
 
 .
 
-## Velocity From Curves
-
-A utility tool that generates a velocity field from a curve, allows to control the following forces:
-
-* Follow force - pushing along the curve tangent
-* Suction force - push velocity toward nearest point on the curve
-* Orbit force - push velocity around the curve
-* Curl Noise - adds Curl noise to the velocity
-
-<img height="200" src="Images/velocity_from_curve.gif">
-
-.
-
-.
-
-# Upcoming Tools
-
 ## 2D Smoke Solver (Beta)
 a SOP solver that simulates smoke in a 2D Plane,
 this method can be rendered as jpeg / png pictures and then used as texture for shading.
@@ -63,20 +46,6 @@ Because this simulation is two dimentional its exectuted much faster then the 3D
 Raisng substeps helps to get better collision and density loss
 
 <img height="200" src="Images/smoke_solver.gif">
-
-.
-
-.
-
-## SDF Growth Solver (Beta)
-
-A tool that simulates a growth of an SDF field by advecting it along a velocity field.
-
-advection is masked by the curvature of the SDF, resulting in different behavior depending on the parameters.
-
-Advection direction can be guided by a curve / velocity field
-
-<img height="200" src="Images/sdf_growth.gif">
 
 .
 
@@ -95,6 +64,36 @@ to find more about chlandi noise look at the following videos:
 [Physics Girl - Singing plates - Standing Waves on Chladni plates](https://www.youtube.com/watch?v=wYoxOJDrZzw)
 
 <img height="200" src="Images/Chlandi_Noise.gif">
+
+.
+
+.
+
+## SDF Growth Solver (Beta)
+
+A tool that simulates a growth of an SDF field by advecting it along a velocity field.
+
+advection is masked by the curvature of the SDF, resulting in different behavior depending on the parameters.
+
+Advection direction can be guided by a curve / velocity field
+
+<img height="200" src="Images/sdf_growth.gif">
+
+
+.
+
+.
+
+## Velocity From Curves
+
+A utility tool that generates a velocity field from a curve, allows to control the following forces:
+
+* Follow force - pushing along the curve tangent
+* Suction force - push velocity toward nearest point on the curve
+* Orbit force - push velocity around the curve
+* Curl Noise - adds Curl noise to the velocity
+
+<img height="200" src="Images/velocity_from_curve.gif">
 
 .
 
