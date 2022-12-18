@@ -29,7 +29,7 @@ You can contribute to the project in the following ways
 This node takes an input polygon surface, and divides each face to create a “Extrude shaped” surface. It is similar to the Subdivide node in that it divides up all or part of a surface allowing you to increase areas of local detail.
 
 Explainer video here:
-https://vimeo.com/775089386
+https://www.youtube.com/watch?v=knRXcH2OOz4
 
 <img aling="right" height="200" src="Images/Extrude_subdivision.gif">
 
