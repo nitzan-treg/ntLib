@@ -7,7 +7,7 @@ This is my way to give back to the community. I'm sharing my development with yo
 
 I welcome you to join the adventure and share your own expirmients
 
-* Discord: https://discord.gg/z5DpSC9U
+* Discord: https://discord.gg/CKwdngysht
 * Youtube: https://www.youtube.com/channel/UCe6hY7_rXJ-iQrdDT0ZiyRw
 * Website: https://www.nitzan-tregerman.com/
 
