@@ -24,6 +24,19 @@ You can contribute to the project in the following ways
 
 # Tools
 
+## SDF Growth Solver
+
+A tool that simulates a growth of an SDF field by advecting it along a velocity field.
+
+advection is masked by the curvature of the SDF, resulting in different behavior depending on the parameters.
+
+Advection direction can be guided by a curve / velocity field
+
+<img height="200" src="Images/sdf_growth.gif">
+
+
+<br>
+
 ## Extrude Subidivision
 
 This node takes an input polygon surface, and divides each face to create a “Extrude shaped” surface. It is similar to the Subdivide node in that it divides up all or part of a surface allowing you to increase areas of local detail.
@@ -59,19 +72,6 @@ to find more about chlandi noise look at the following videos:
 [Physics Girl - Singing plates - Standing Waves on Chladni plates](https://www.youtube.com/watch?v=wYoxOJDrZzw)
 
 <img height="200" src="Images/Chlandi_Noise.gif">
-
-<br>
-
-## SDF Growth Solver (Beta)
-
-A tool that simulates a growth of an SDF field by advecting it along a velocity field.
-
-advection is masked by the curvature of the SDF, resulting in different behavior depending on the parameters.
-
-Advection direction can be guided by a curve / velocity field
-
-<img height="200" src="Images/sdf_growth.gif">
-
 
 <br>
 
