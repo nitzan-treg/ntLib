@@ -88,7 +88,7 @@ A utility tool that generates a velocity field from a curve, allows to control t
 
 <br>
 
-## Super Diamond (Beta)
+## Diamond Ramp (Beta)
 A tool that remaps every axis with a ramp,
 by default it generates the "super diamond" which is a remaped octahedron.
 
