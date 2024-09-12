@@ -9,7 +9,7 @@ I welcome you to join the adventure and share your own expirmients
 
 * Discord: https://discord.gg/CKwdngysht
 * Youtube: https://www.youtube.com/channel/UCe6hY7_rXJ-iQrdDT0ZiyRw
-* Website: https://www.nitzan-tregerman.com/
+* Website: https://www.nitzantregerman.com/
 
 ## Contribution
 

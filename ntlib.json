@@ -1,0 +1,11 @@
+{
+    "env":[
+        {
+            "NT": "C:/Users/nitzan/Safe_Folder/ntLib",
+        }
+    ],
+    "path": "$NT", 
+}
+
+
+
