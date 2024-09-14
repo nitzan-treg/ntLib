@@ -1,11 +1,9 @@
 {
-    "env":[
-        {
-            "NT": "C:/Users/nitzan/Safe_Folder/ntLib",
-        }
-    ],
-    "path": "$NT", 
+	"env": [
+		{
+			"NT": "C:/Users/nitzan/Houdini Safe Folder/ntLib"
+		}
+	],
+	"path": "$NT"
+	
 }
-
-
-
